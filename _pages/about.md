@@ -13,6 +13,8 @@ Hi there! This is Ling Li. I currently serve as a research assistant at Hong Kon
 
 Prior to joining HKUST-CIVAL, I had accumulated two years of invaluable experience in the industry. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Information Management and Systems, from Anhui University.
 
+If you are interested in my research, please feel free to contact with me!
+
 Research Interests
 ======
 - Generative AI, e.g, Image Generation, Mutimodal Foundation Model
