@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi there! This is Ling Li. I currently serve as a research assistant at Hong Kong University of Science and Technology, Guangzhou. I am fortunately supervised by Professor [Wei Zeng](https://zeng-wei.com/) at [HKUST-CIVAL](https://hkust-cival.com). My primary research interests lie in the exploration and development of Generative AI.
+Hi there! This is Ling Li. I currently serve as a research assistant at Hong Kong University of Science and Technology (Guangzhou). I am fortunately supervised by Professor [Wei Zeng](https://zeng-wei.com/) at [HKUST-CIVAL](https://hkust-cival.com). My primary research interests lie in the exploration and development of Generative AI.
 
 Prior to joining HKUST-CIVAL, I had accumulated two years of invaluable experience in the industry. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Information Management and Systems, from Anhui University.
 
