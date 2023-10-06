@@ -17,7 +17,7 @@ If you are interested in my research, please feel free to contact me!
 
 Research Interests
 ======
-- Generative AI, e.g, Image Generation, Mutimodal Foundation Model
+- Generative AI, e.g, Image Generation, Mutimodal Foundation Models
 
 News
 ======
