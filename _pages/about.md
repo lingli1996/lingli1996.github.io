@@ -67,7 +67,7 @@ table, th, td {
   </tr>
   <tr>
     <td>Sept 2014 - Jun 2018</td>
-    <td>B.S. in Management Information System, Anhui University</td>
+    <td>B.Sc. in Management Information System, Anhui University</td>
   </tr>
   <tr>
     <td>Jan 2018</td>
