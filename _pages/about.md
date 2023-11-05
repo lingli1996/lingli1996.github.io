@@ -130,6 +130,10 @@ table, th, td {
 
 <table>
   <tr>
+    <td>2021</td>
+    <td>Outstanding Master‘s Thesis Award</td>
+  </tr>
+  <tr>
     <td>2017</td>
     <td>The Honorable Mention in <a href="https://www.comap.com/contests/mcm-icm">The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM)</a></td>
   </tr>
@@ -137,6 +141,7 @@ table, th, td {
     <td>2016</td>
     <td>The 1st Prize in <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a></td>
   </tr>
+
 </table>
 
 </body>
