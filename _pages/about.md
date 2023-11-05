@@ -131,7 +131,7 @@ table, th, td {
 <table>
   <tr>
     <td>2021</td>
-    <td>Outstanding Master‘s Thesis Award</td>
+    <td>Outstanding Master's Thesis Award</td>
   </tr>
   <tr>
     <td>2017</td>
