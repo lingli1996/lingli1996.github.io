@@ -62,8 +62,16 @@ table, th, td {
     <td>Research Intern, Youtu Lab, Tencent</td>
   </tr>
   <tr>
+    <td>Aug 2019</td>
+    <td>Sakura Science Exchange Program, The University of Tokushima</td>
+  </tr>
+  <tr>
     <td>Sept 2014 - Jun 2018</td>
     <td>B.S. in Management Information System, Anhui University</td>
+  </tr>
+  <tr>
+    <td>Jan 2018</td>
+    <td>Visiting Program, The University of Hong Kong</td>
   </tr>
 </table>
 
@@ -72,17 +80,64 @@ table, th, td {
 
 Publications
 ======
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+}
 
-[C2] <ins>**Ling Li**</ins>, Yaochen Li, Chuan Wu, Hang Dong, Peilin Jiang. Detail Fusion GAN: High-Quality Translation for Unpaired Images with GAN-based Data Augmentation[C]. IEEE International Conference on Pattern Recognition, pp. 1731-1736, 2020.
+table, th, td {
+  border: 1px solid transparent;
+}
+</style>
+</head>
+<body>
 
-[J2] Yaochen Li, Chuan Wu, <ins>**Ling Li**</ins>, Yuehu Liu and Jihua Zhu. Caption generation from road images for traffic scene modeling[J]. IEEE Transactions on Intelligent Transportation Systems, 23(7): 7805-7816, 2021.
+<table>
+  <tr>
+    <td>[C2] <ins><b>Ling Li</b></ins>, Yaochen Li, Chuan Wu, Hang Dong, Peilin Jiang. Detail Fusion GAN: High-Quality Translation for Unpaired Images with GAN-based Data Augmentation[C]. IEEE International Conference on Pattern Recognition, pp. 1731-1736, 2020.</td>
+  </tr>
+  <tr>
+    <td>[J2] Yaochen Li, Chuan Wu, <ins><b>Ling Li</b></ins>, Yuehu Liu and Jihua Zhu. Caption generation from road images for traffic scene modeling[J]. IEEE Transactions on Intelligent Transportation Systems, 23(7): 7805-7816, 2021.</td>
+  </tr>
+  <tr>
+    <td>[C1] Chuan Wu, Yaochen Li, <ins><b>Ling Li</b></ins>, Le Wang and Yuehu Liu. Caption Generation from Road Images for Traffic Scene Construction[C]. IEEE Intelligent Vehicles Symposium, pp. 1271-1276, 2020.</td>
+  </tr>
+  <tr>
+    <td>[J1] Yaochen Li, Xiao Wu, Danhui Lu, <ins><b>Ling Li</b></ins>, Yuehu Liu, Li Zhu. Style Transfer of Urban Road Images using Generative Adversarial Networks with Structural Details[J]. IEEE Multimedia, 27(3): 54-65, 2020.</td>
+  </tr>
+</table>
 
-[C1] Chuan Wu, Yaochen Li, <ins>**Ling Li**</ins>, Le Wang and Yuehu Liu. Caption Generation from Road Images for Traffic Scene Construction[C]. IEEE Intelligent Vehicles Symposium, pp. 1271-1276, 2020.
-
-[J1] Yaochen Li, Xiao Wu, Danhui Lu, <ins>**Ling Li**</ins>, Yuehu Liu, Li Zhu. Style Transfer of Urban Road Images using Generative Adversarial Networks with Structural Details[J]. IEEE Multimedia, 27(3): 54-65, 2020.
-
+</body>
+</html>
 
 Selected Awards and Honors
 ======
-- **2017**  The Honorable Mention in [The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM)](https://www.comap.com/contests/mcm-icm)
-- **2016**  The 1st Prize in [Contemporary Undergraduate Mathematical Contest in Modeling](http://en.mcm.edu.cn/) 
+<html>
+<head>
+<style>
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: 1px solid transparent;
+}
+</style>
+</head>
+<body>
+
+<table>
+  <tr>
+    <td>2017</td>
+    <td>The Honorable Mention in <a href="https://www.comap.com/contests/mcm-icm">The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM)</a></td>
+  </tr>
+  <tr>
+    <td>2016</td>
+    <td>The 1st Prize in <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a></td>
+  </tr>
+</table>
+
+</body>
+</html>
