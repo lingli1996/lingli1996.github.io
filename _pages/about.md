@@ -34,8 +34,8 @@ table {
 
 table, th, td {
   border: 1px solid transparent;
-  font-size: 14px;
 }
+
 </style>
 </head>
 <body>
@@ -66,7 +66,7 @@ table, th, td {
     <td>Research Intern, Youtu Lab, Tencent</td>
   </tr>
   <tr>
-    <td>Aug 2019</td>
+    <td>Aug 2019 - Aug 2019</td>
     <td>Sakura Science Exchange Program, The University of Tokushima</td>
   </tr>
   <tr>
@@ -74,7 +74,7 @@ table, th, td {
     <td>B.Sc. in Management Information System, Anhui University</td>
   </tr>
   <tr>
-    <td>Jan 2018</td>
+    <td>Jan 2018 - Jan 2018</td>
     <td>Visiting Program, The University of Hong Kong</td>
   </tr>
 </table>
