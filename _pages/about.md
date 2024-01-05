@@ -36,6 +36,10 @@ table, th, td {
   border: 1px solid transparent;
 }
 
+td:nth-child(1) {
+    width: 22%;
+  }
+
 </style>
 </head>
 <body>
@@ -94,6 +98,7 @@ table {
 table, th, td {
   border: 1px solid transparent;
 }
+
 </style>
 </head>
 <body>
