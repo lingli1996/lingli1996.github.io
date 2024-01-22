@@ -16,7 +16,7 @@ If you are interested in my research, please feel free to contact me!
 
 Research Interests
 ======
-- Generative AI, e.g, Image-to-Image Translation, Mutimodal Foundation Models
+- Generative AI, e.g., Image-to-Image Translation, Multimodal Foundation Models
 
 <!-- News
 ======
