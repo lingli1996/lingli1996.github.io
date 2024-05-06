@@ -106,7 +106,7 @@ table, th, td {
 
 <table>
   <tr>
-    <td>[C3] <ins><b>Ling Li</b></ins>, Yu Ye, Bingchuan Jiang, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model[C]. Proceedings of The International Conference on Machine Learning (ICML), 2024. Accepted.</td>
+    <td>[C3] <ins><b>Ling Li</b></ins>, Yu Ye, Bingchuan Jiang, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model[C]. The 41st International Conference on Machine Learning (ICML), 2024. Accepted.</td>
   </tr>
   <tr>
     <td>[C2] <ins><b>Ling Li</b></ins>, Yaochen Li, Chuan Wu, Hang Dong, Peilin Jiang. Detail Fusion GAN: High-Quality Translation for Unpaired Images with GAN-based Data Augmentation[C]. IEEE International Conference on Pattern Recognition, pp. 1731-1736, 2020.</td>
