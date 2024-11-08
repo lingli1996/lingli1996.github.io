@@ -106,6 +106,12 @@ table, th, td {
 
 <table>
   <tr>
+    <td>[C5] Ziyao Gao, Yiwen Zhang, <ins><b>Ling Li</b></ins>, Theodoros Papatheodorou, Wei Zeng. AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation[C]. SIGGRAPH Asia 2024 Art Papers. Accepted.</td>
+  </tr>
+  <tr>
+    <td>[C4] Jian Yu, <ins><b>Ling Li</b></ins>, Wei Zeng. HarmonyWave: Immersive Space Sound Therapy with Audio-Visual Synesthesia[C]. Proceedings of The 17th International Symposium on Visual Information Communication and Interaction. Accepted.</td>
+  </tr>
+  <tr>
     <td>[C3] <ins><b>Ling Li</b></ins>, Yu Ye, Bingchuan Jiang, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model[C]. The 41st International Conference on Machine Learning (ICML), 2024. Accepted.</td>
   </tr>
   <tr>
