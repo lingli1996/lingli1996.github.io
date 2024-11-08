@@ -10,7 +10,7 @@ redirect_from:
 
 Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests lie in the exploration of Generative AI. I am fortunately supervised by [Prof. Wei Zeng](https://zeng-wei.com/) and [Prof. Tsung Fugee](https://ieda.ust.hk/dfaculty/tsung/). 
 
-Prior to joining HKUST-CIVAL group, I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and start-up. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Management Information System, from Anhui University.
+Prior to enrolling at HKUST(GZ), I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and a start-up. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Management Information System, from Anhui University.
 
 If you are interested in my research, please feel free to contact me!
 
