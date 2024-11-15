@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests lie in the exploration of Generative AI. I am fortunately supervised by [Prof. Wei Zeng](https://zeng-wei.com/) and [Prof. Tsung Fugee](https://ieda.ust.hk/dfaculty/tsung/). 
+Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests lie in the exploration of Generative AI and Urban AI. I am fortunately supervised by [Prof. Wei Zeng](https://zeng-wei.com/) and [Prof. Tsung Fugee](https://ieda.ust.hk/dfaculty/tsung/). 
 
 Prior to enrolling at HKUST(GZ), I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and a start-up. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Management Information System, from Anhui University.
 
@@ -17,7 +17,7 @@ If you are interested in my research, please feel free to contact me!
 Research Interests
 ======
 - Generative AI, e.g., Image-to-Image Translation, Multimodal Foundation Models
-- Computational Media
+- Urban AI, e.g., Geo-localization
 
 <!-- News
 ======
@@ -48,11 +48,11 @@ td:nth-child(1) {
 <table>
   <tr>
     <td>Jan 2024 - Now</td>
-    <td>Ph.D. Student, CIVAL Lab, The Hong Kong University of Science and Technology (Guangzhou)</td>
+    <td>Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)</td>
   </tr>
   <tr>
     <td>Aug 2023 - Jan 2024</td>
-    <td>Research Assistant, CIVAL Lab, The Hong Kong University of Science and Technology (Guangzhou)</td>
+    <td>Research Assistant, The Hong Kong University of Science and Technology (Guangzhou)</td>
   </tr>
   <tr>
     <td>Sept 2022 - May 2023</td>
