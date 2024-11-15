@@ -17,12 +17,7 @@ If you are interested in my research, please feel free to contact me!
 Research Interests
 ======
 - Generative AI, e.g., Image-to-Image Translation, Multimodal Foundation Models
-- Urban AI, e.g., Geo-localization
-
-<!-- News
-======
-
-- [**Aug. 2023**] I joined HKUST-CIVAL group as a research assistant. -->
+- Urban AI, e.g., Geo-localization, Style Augmentation
 
 Experience
 ======
