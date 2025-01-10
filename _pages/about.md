@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests lie in the exploration of Generative AI and Urban AI. I am fortunately supervised by [Prof. Wei Zeng](https://zeng-wei.com/) and [Prof. Tsung Fugee](https://ieda.ust.hk/dfaculty/tsung/). 
+Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests focus on Data-Centric AI. I am fortunately supervised by [Prof. Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei) and [Prof. Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/).  
 
 Prior to enrolling at HKUST(GZ), I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and a start-up. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Management Information System, from Anhui University.
 
@@ -16,8 +16,8 @@ If you are interested in my research, please feel free to contact me!
 
 Research Interests
 ======
-- Generative AI, e.g., Image-to-Image Translation, Multimodal Foundation Models
-- Urban AI, e.g., Geo-localization, Style Augmentation
+- Data-Centric AI: Data Quality Evaluation and Efficient Data Generation
+- Generative AI for Multimodal and Data-Driven Applications
 
 Experience
 ======
