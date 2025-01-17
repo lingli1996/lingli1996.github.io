@@ -100,6 +100,12 @@ table, th, td {
 <body>
 
 <table>
+  <tr> 
+    <td>[J3] Manling Yang, Yihan Hou, <ins><b>Ling Li</b></ins>, Remco Chang, Wei Zeng. Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors[J]. IEEE Transactions on Visualization and Computer Graphics, 2025. Accepted.</td>
+  </tr>
+  <tr>
+    <td>[C6] Jian Yu, <ins><b>Ling Li</b></ins>, Yingna Wang, Wei Zeng, Zeyu Wang. Exploring Cross-Chronotope Tombs: A Generative AI-Assisted Multimodal Heritage Virtual Reality Experience[C]. Proceedings of The 30th International Symposium on Electronic/Emerging Art. Accepted.</td>
+  </tr>
   <tr>
     <td>[C5] Ziyao Gao, Yiwen Zhang, <ins><b>Ling Li</b></ins>, Theodoros Papatheodorou, Wei Zeng. AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation[C]. SIGGRAPH Asia 2024 Art Papers. Accepted.</td>
   </tr>
