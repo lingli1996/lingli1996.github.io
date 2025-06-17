@@ -7,20 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-Hi there! This is Ling Li. I am currently a Ph.D. student at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests focus on Data-Centric AI. I am fortunately supervised by [Prof. Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei) and [Prof. Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/).  
+Hi there! This is Ling Li. I am currently a Ph.D. Candidate in Data Science and Analysis Thrust at The Hong Kong University of Science and Technology (Guangzhou). My primary research interests focus on Data-Centric AI. I am fortunately supervised by [Prof. Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei) and [Prof. Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/).  
 
 Prior to enrolling at HKUST(GZ), I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and a start-up. My academic background includes a Master of Engineering degree, specialized in Software Engineering, from Xi'an Jiaotong University, and a Bachelor of Science degree, with a concentration in Management Information System, from Anhui University.
 
 If you are interested in my research, please feel free to contact me!
 
 Research Interests
-======
+-------------
 - Data-Centric AI: Data Quality Evaluation and Efficient Data Generation
 - Generative AI for Multimodal and Data-Driven Applications
 
 Experience
-======
+-------------
 <html>
 <head>
 <style>
@@ -42,8 +41,8 @@ td:nth-child(1) {
 
 <table>
   <tr>
-    <td>Jan 2024 - Now</td>
-    <td>Ph.D. Student, The Hong Kong University of Science and Technology (Guangzhou)</td>
+    <td>Jan 2024 - now</td>
+    <td>Ph.D. Candidate, The Hong Kong University of Science and Technology (Guangzhou)</td>
   </tr>
   <tr>
     <td>Aug 2023 - Jan 2024</td>
@@ -83,7 +82,7 @@ td:nth-child(1) {
 </html>
 
 Publications
-======
+-------------
 <html>
 <head>
 <style>
@@ -130,7 +129,7 @@ table, th, td {
 </html>
 
 Selected Awards and Honors
-======
+-------------
 <html>
 <head>
 <style>
@@ -147,16 +146,16 @@ table, th, td {
 
 <table>
   <tr>
-    <td>2021</td>
-    <td>Outstanding Master's Thesis Award</td>
+    <!-- <td>2021</td> -->
+    <td>2021, Outstanding Dissertation, Xi’an Jiaotong University</td>
   </tr>
   <tr>
-    <td>2017</td>
-    <td>The Honorable Mention in <a href="https://www.comap.com/contests/mcm-icm">The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM)</a></td>
+    <!-- <td>2017</td> -->
+    <td>2017, Honorable Mention, <a href="https://www.comap.com/contests/mcm-icm">The Mathematical Contest in Modeling (MCM)/The Interdisciplinary Contest in Modeling (ICM)</a></td>
   </tr>
   <tr>
-    <td>2016</td>
-    <td>The 1st Prize in <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a></td>
+    <!-- <td>2016</td> -->
+    <td>2016, 1st Prize, <a href="http://en.mcm.edu.cn/">Contemporary Undergraduate Mathematical Contest in Modeling</a></td>
   </tr>
 
 </table>
