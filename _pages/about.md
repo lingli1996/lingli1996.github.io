@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi there! This is Ling Li. I am currently a Ph.D. Candidate in Data Science and Analysis Thrust at The Hong Kong University of Science and Technology (Guangzhou). I am fortunately supervised by [Prof. Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei) and [Prof. Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/). 
+Hi there! This is Ling Li. I am currently a Ph.D. Candidate in Data Science and Analytics Thrust at The Hong Kong University of Science and Technology (Guangzhou). I am fortunately supervised by [Prof. Jiaheng Wei](https://sites.google.com/ucsc.edu/jiahengwei) and [Prof. Fugee Tsung](https://ieda.ust.hk/dfaculty/tsung/). 
 
 Prior to enrolling at HKUST(GZ), I gained impressive industry experience through full-time and internship roles at Tencent, Baidu, and a start-up.
 I hold an M.Eng. in Software Engineering from Xi’an Jiaotong University and a B.Sc. in Information Management and Information System from Anhui University.
