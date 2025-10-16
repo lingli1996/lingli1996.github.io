@@ -102,31 +102,28 @@ table, th, td {
 
 <table>
   <tr> 
-    <td>[C6] <ins><b>Ling Li</b></ins>, Yao Zhou, Yuxuan Liang, Fugee Tsung, Jiaheng Wei. Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.</td>
+    <td><ins><b>Ling Li</b></ins>, Yao Zhou, Yuxuan Liang, Fugee Tsung, Jiaheng Wei. Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.</td>
   </tr>
   <tr> 
-    <td>[J3] Manling Yang, Yihan Hou, <ins><b>Ling Li</b></ins>, Remco Chang, Wei Zeng. Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</td>
+    <td>Manling Yang, Yihan Hou, <ins><b>Ling Li</b></ins>, Remco Chang, Wei Zeng. Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</td>
   </tr>
   <tr>
-    <td>[C5] Ziyao Gao, Yiwen Zhang, <ins><b>Ling Li</b></ins>, Theodoros Papatheodorou, Wei Zeng. AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation. SIGGRAPH Asia Art Papers, 2024.</td>
+    <td>Ziyao Gao, Yiwen Zhang, <ins><b>Ling Li</b></ins>, Theodoros Papatheodorou, Wei Zeng. AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation. SIGGRAPH Asia Art Papers, 2024.</td>
   </tr>
   <tr>
-    <td>[C4] Jian Yu, <ins><b>Ling Li</b></ins>, Wei Zeng. HarmonyWave: Immersive Space Sound Therapy with Audio-Visual Synesthesia. The 17th International Symposium on Visual Information Communication and Interaction (VINCI), 2024.</td>
+    <td>Jian Yu, <ins><b>Ling Li</b></ins>, Wei Zeng. HarmonyWave: Immersive Space Sound Therapy with Audio-Visual Synesthesia. The 17th International Symposium on Visual Information Communication and Interaction (VINCI), 2024.</td>
   </tr>
   <tr>
-    <td>[C3] <ins><b>Ling Li</b></ins>, Yu Ye, Bingchuan Jiang, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model. The 41st International Conference on Machine Learning (ICML), 2024.</td>
+    <td><ins><b>Ling Li</b></ins>, Yaochen Li, Chuan Wu, Hang Dong, Peilin Jiang. Detail Fusion GAN: High-Quality Translation for Unpaired Images with GAN-based Data Augmentation. IEEE International Conference on Pattern Recognition (ICPR), 2020.</td>
   </tr>
   <tr>
-    <td>[C2] <ins><b>Ling Li</b></ins>, Yaochen Li, Chuan Wu, Hang Dong, Peilin Jiang. Detail Fusion GAN: High-Quality Translation for Unpaired Images with GAN-based Data Augmentation. IEEE International Conference on Pattern Recognition (ICPR), 2020.</td>
+    <td>Yaochen Li, Chuan Wu, <ins><b>Ling Li</b></ins>, Yuehu Liu and Jihua Zhu. Caption generation from road images for traffic scene modeling. IEEE Transactions on Intelligent Transportation Systems, 23(7): 7805-7816, 2021.</td>
   </tr>
   <tr>
-    <td>[J2] Yaochen Li, Chuan Wu, <ins><b>Ling Li</b></ins>, Yuehu Liu and Jihua Zhu. Caption generation from road images for traffic scene modeling. IEEE Transactions on Intelligent Transportation Systems, 23(7): 7805-7816, 2021.</td>
+    <td>Chuan Wu, Yaochen Li, <ins><b>Ling Li</b></ins>, Le Wang and Yuehu Liu. Caption Generation from Road Images for Traffic Scene Construction. IEEE Intelligent Vehicles Symposium, pp. 1271-1276, 2020.</td>
   </tr>
   <tr>
-    <td>[C1] Chuan Wu, Yaochen Li, <ins><b>Ling Li</b></ins>, Le Wang and Yuehu Liu. Caption Generation from Road Images for Traffic Scene Construction. IEEE Intelligent Vehicles Symposium, pp. 1271-1276, 2020.</td>
-  </tr>
-  <tr>
-    <td>[J1] Yaochen Li, Xiao Wu, Danhui Lu, <ins><b>Ling Li</b></ins>, Yuehu Liu, Li Zhu. Style Transfer of Urban Road Images using Generative Adversarial Networks with Structural Details. IEEE Multimedia, 27(3): 54-65, 2020.</td>
+    <td>Yaochen Li, Xiao Wu, Danhui Lu, <ins><b>Ling Li</b></ins>, Yuehu Liu, Li Zhu. Style Transfer of Urban Road Images using Generative Adversarial Networks with Structural Details. IEEE Multimedia, 27(3): 54-65, 2020.</td>
   </tr>
 </table>
 
