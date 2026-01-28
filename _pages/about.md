@@ -102,13 +102,16 @@ table, th, td {
 
 <table>
   <tr> 
-    <td><ins><b>Ling Li</b></ins>, Yao Zhou, Yuxuan Liang, Fugee Tsung, Jiaheng Wei. Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models. The 39th Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.</td>
+    <td>Hao Cheng, Rui Zhang, <ins><b>Ling Li</b></ins>, Na Di, Jiaheng Wei, Zhaowei Zhu, Bo Han. Task-Aware Data Selection via Proxy-Label Enhanced Distribution Matching for LLM Finetuning. The Fourteenth International Conference on Learning Representations (ICLR), 2026.</td>
+  </tr>
+  <tr> 
+    <td><ins><b>Ling Li</b></ins>, Yao Zhou, Yuxuan Liang, Fugee Tsung, Jiaheng Wei. Recognition through Reasoning: Reinforcing Image Geo-localization with Large Vision-Language Models. The Thirty-Ninth Annual Conference on Neural Information Processing Systems (NeurIPS), 2025.</td>
   </tr>
   <tr> 
     <td>Manling Yang, Yihan Hou, <ins><b>Ling Li</b></ins>, Remco Chang, Wei Zeng. Dashboard Vision: Using Eye-Tracking to Understand and Predict Dashboard Viewing Behaviors. IEEE Transactions on Visualization and Computer Graphics (TVCG), 2025.</td>
   </tr>
   <tr>
-    <td><ins><b>Ling Li</b></ins>, Yu Ye, Yao Zhou, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model. The 41st International Conference on Machine Learning (ICML), 2024.</td>
+    <td><ins><b>Ling Li</b></ins>, Yu Ye, Yao Zhou, Wei Zeng. GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model. The Forty-First International Conference on Machine Learning (ICML), 2024.</td>
   </tr>
   <tr>
     <td>Ziyao Gao, Yiwen Zhang, <ins><b>Ling Li</b></ins>, Theodoros Papatheodorou, Wei Zeng. AI-rays: Exploring Bias in the Gaze of AI Through a Multimodal Interactive Installation. SIGGRAPH Asia Art Papers, 2024.</td>
