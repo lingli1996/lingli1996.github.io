@@ -102,6 +102,9 @@ table, th, td {
 
 <table>
   <tr> 
+    <td>Na Di, <b>Ling Li</b>, Zhe Tang, Hao Cheng, Jinlong Pang, Jiaheng Wei, Zhaowei Zhu. Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help. The Forty-Third International Conference on Machine Learning (ICML), 2026.</td>
+  </tr>
+  <tr> 
     <td>Hao Zheng, Zirui Pang, <b>Ling Li</b>, Zhijie Deng, Yuhan Pu, Zhaowei Zhu, Xiaobo Xia, Jiaheng Wei. OFFSIDE: Benchmarking Unlearning Misinformation in Multimodal Large Language Models. Findings of the Association for Computational Linguistics (ACL Findings), 2026.</td>
   </tr>
   <tr> 
@@ -140,10 +143,10 @@ table, th, td {
 </html>
 
 
-Professional Activities
+Academic Service
 -------------
+- 2026: CVPR, ICML, ECCV, NeurIPS, TPAMI
 - 2025: IROS, ICLR
-- 2026: CVPR, ICML, ECCV
 
 
 Selected Awards and Honors
@@ -185,11 +188,6 @@ table, th, td {
 -------------
 <!-- <p align="center"> -->
 <p>
-<a href='https://clustrmaps.com/site/1bx96'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=ffffff&w=400&t=tt&d=GeNrTWzREx9cnMdTMQnFK33iMnHq1W05aCK-y6sxkao'/></a>
+<a href="https://mapmyvisitors.com/web/1c61j"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=cfGdGsr2uPqaG_4ha8I21en3r4kLFY7XIEtTMiCrYsg&cl=ffffff" /></a>
 </p>
 
-<!-- monthly -->
-
-<!-- <p align="center">
-<a href='https://clustrmaps.com/site/1boq7'  title='Visit tracker'><img src='//clustrmaps.com/map_v2.png?cl=c9b8ff&w=450&t=m&d=229QqCMYXHc0RAJPA6ck5Qokj48BzUnIrPIBz9HA1Ic&co=ffffff&ct=808080'/></a>
-</p> -->
