@@ -16,9 +16,9 @@ I hold an M.Eng. in Software Engineering from Xi’an Jiaotong University and a 
 
 Research Interests
 -------------
-- Trustworthy & Data-Efficient AI
 - Spatial Reasoning & Urban Intelligence
 - Multimodal & Large Language Models
+- Trustworthy & Data-Efficient AI
 
 Experience
 -------------
@@ -101,6 +101,12 @@ table, th, td {
 <body>
 
 <table>
+  <tr>
+    <td>Ziqian Mo, Hill Zhang, Haosheng Tan, <b>Ling Li</b>, Jiaheng Wei. S³Geo: Structure-Semantic Synergistic Learning for Cross-View Geo-Localization. The Thirty-fourth ACM International Conference on Multimedia (MM), 2026.</td>
+  </tr>
+  <tr>
+    <td>Zhijie Deng, Zhouan Shen, <b>Ling Li</b>, Yao Zhou, Zhaowei Zhu, Yanji He, Wei Wang, Jiaheng Wei. LM-mixup: Text Data Augmentation via Language Model based Mixup. The Third Annual Conference on Language Modeling (COLM), 2026.</td>
+  </tr>
   <tr> 
     <td>Na Di, <b>Ling Li</b>, Zhe Tang, Hao Cheng, Jinlong Pang, Jiaheng Wei, Zhaowei Zhu. Detecting Errors in AI-Generated Annotations: When and Why Semantic Neighbors Help. The Forty-Third International Conference on Machine Learning (ICML), 2026.</td>
   </tr>
@@ -145,7 +151,7 @@ table, th, td {
 
 Academic Service
 -------------
-- 2026: CVPR, ICML, ECCV, NeurIPS, TPAMI
+- 2026: CVPR, ICML, ECCV, NeurIPS, ICLR, AAAI, TPAMI, TIP
 - 2025: IROS, ICLR
 
 
